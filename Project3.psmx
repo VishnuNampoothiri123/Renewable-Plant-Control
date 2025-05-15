@@ -1,0 +1,14 @@
+<Meta name="Project3">
+  <messagelist />
+  <Catalog count="0" />
+  <ViewContext>
+    <Window defn="Project3:MasterController" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="6" scrollx="0" scrolly="144" />
+    <View name="MasterController" zoomlevel="5" scrollx="0" scrolly="480" />
+    <View name="PV_INV_1" zoomlevel="6" scrollx="0" scrolly="432" />
+    <View name="WTG_INV_1" zoomlevel="5" scrollx="0" scrolly="240" />
+    <View name="BESS_INV_1" zoomlevel="5" scrollx="0" scrolly="240" />
+  </List>
+</Meta>
